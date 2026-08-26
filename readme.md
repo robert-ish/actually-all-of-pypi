@@ -4,7 +4,7 @@
 Functions to install and import every package on PyPI.
 ## installation
 ```bash
-pip install actually-all-of-pypi
+pip install actually-all-of-pypi (not yet, i havent uploaded to pipy yet)
 ```
 ## Usage:
 ```python
